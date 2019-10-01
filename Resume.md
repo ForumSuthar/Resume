@@ -40,21 +40,22 @@ Structures and Algorithm, Object Oriented Programming.
 #### Systems Engineer | Jul 2016 – Jul 2018
 
 ```
-◦ Worked closely with teams across Business Units to create automation frameworks and comprehensive test 
-  tools following Agile methodology.
+◦ Worked closely with teams across Business Units to create automation frameworks and comprehensive test
+tools following Agile methodology.
 ◦ Wrote and executed various MYSQL database queries using Python MySQL connector and MySQL dB package.
-◦ Created Automation scripts using Python for testing various applications as well as the integrated 
+◦ Created Automation scripts using Python for testing various applications as well as the integrated
   these applications (API’s & UI’s) based on REST calls using Selenium and Python, phrasing the JSON responses.
-◦ Lead a team of four, which was responsible for developing automation tools. Supervised and delegated tasks, 
+  ◦ Lead a team of four, which was responsible for developing automation tools. Supervised and delegated tasks,
   contributed to technical solutions spanning the SDLC, from design to code development.
-◦ Designed data visualizations to present current impact and growth, providing insights to the higher management.
-```
+  ◦ Designed data visualizations to present current impact and growth, providing insights to the higher management.
+  
+  ```
 ### •Nevon Solutions Pvt. Ltd. Mumbai, India
 #### Embedded Engineer Intern | Jun 2015 – Jan 2016
 
 ```
 ◦ Experienced working on complete life-cycle of product development with an experienced cross-disciplinary team.
-◦ Designed the PCB layouts using Altium, assisted in firmware developing & testing of a robot arm based on 
+◦ Designed the PCB layouts using Altium, assisted in firmware developing & testing of a robot arm based on
   ARM cortex M7.
 ◦ Built products with ARM Cortex M4 & M0, Arduino, and communication protocols like SPI, I2C, UART, Bluetooth.
 ```
