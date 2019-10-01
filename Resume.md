@@ -16,8 +16,8 @@ Engineering for Embedded Systems, Mobile Sensing and Application, Hardware and S
 #### Bachelor of Engineering in Electronics Engineering | GPA: 3.6  | Jul 2012 – May 2016
 
 ```
-Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers, Robotics, Data Structures and
-Algorithm, Object Oriented Programming.
+Relevant Coursework: Embedded Systems, Micro-processors & Peripherals, Micro-controllers, Robotics, Data 
+Structures and Algorithm, Object Oriented Programming.
 ```
 ## TECHNICALSKILLS
 
@@ -32,20 +32,21 @@ Algorithm, Object Oriented Programming.
 
 ```
 ◦ Implemented complete source code migration from IAR to GNU toolchain on ARM MCU MK20D.
-◦ Developed algorithms in QT user interface, Linux development and firmware development for ARM Cortex M4 (STM 32)
-using IAR tools.
+◦ Developed algorithms in QT user interface, Linux development and firmware development for ARM Cortex 
+  M4 (STM 32) using IAR tools.
 ◦ Designed and developed UI features like a barcode generator using QT creator.
 ```
 ### •Infosys Ltd. Pune, India
 #### Systems Engineer | Jul 2016 – Jul 2018
 
 ```
-◦ Worked closely with teams across Business Units to create automation frameworks and comprehensive test tools following Agile methodology.
+◦ Worked closely with teams across Business Units to create automation frameworks and comprehensive test 
+  tools following Agile methodology.
 ◦ Wrote and executed various MYSQL database queries using Python MySQL connector and MySQL dB package.
-◦ Created Automation scripts using Python for testing various applications as well as the integrated these applications (API’s &
-UI’s) based on REST calls using Selenium and Python, phrasing the JSON responses.
-◦ Lead a team of four, which was responsible for developing automation tools. Supervised and delegated tasks, contributed to
-technical solutions spanning the SDLC, from design to code development.
+◦ Created Automation scripts using Python for testing various applications as well as the integrated 
+  these applications (API’s & UI’s) based on REST calls using Selenium and Python, phrasing the JSON responses.
+◦ Lead a team of four, which was responsible for developing automation tools. Supervised and delegated tasks, 
+  contributed to technical solutions spanning the SDLC, from design to code development.
 ◦ Designed data visualizations to present current impact and growth, providing insights to the higher management.
 ```
 ### •Nevon Solutions Pvt. Ltd. Mumbai, India
@@ -53,7 +54,8 @@ technical solutions spanning the SDLC, from design to code development.
 
 ```
 ◦ Experienced working on complete life-cycle of product development with an experienced cross-disciplinary team.
-◦ Designed the PCB layouts using Altium, assisted in firmware developing & testing of a robot arm based on ARM cortex M7.
+◦ Designed the PCB layouts using Altium, assisted in firmware developing & testing of a robot arm based on 
+  ARM cortex M7.
 ◦ Built products with ARM Cortex M4 & M0, Arduino, and communication protocols like SPI, I2C, UART, Bluetooth.
 ```
 ## PROJECTS
